@@ -626,21 +626,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🎓 Learning Resources
-
-### For Developers
-- [CrewAI Documentation](https://docs.crewai.com/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Google AI Documentation](https://ai.google.dev/docs)
-- [Python Best Practices](https://docs.python-guide.org/)
-
-### For Users
-- [How to Plan the Perfect Trip](https://blog.example.com)
-- [Understanding Travel Budgets](https://blog.example.com)
-- [Making the Most of AI Tools](https://blog.example.com)
-
----
-
 <div align="center">
 
 
